@@ -1,1 +1,1 @@
-# QaisSultani-Resume-Parser-Web-App
+# Resume-Parser-Web-App
